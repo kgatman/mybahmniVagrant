@@ -4,6 +4,9 @@
 yum install git;
 yum install dnf;
 
+#vagrant-plugin
+vagrant plugin install vagrant-disksize
+
 # my editors
 yum install vim;
 yum install emacs;
